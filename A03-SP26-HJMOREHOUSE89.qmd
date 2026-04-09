@@ -25,6 +25,9 @@ execute:
   freeze: auto
 ---
 
+## GitHub Repo
+
+https://github.com/hjmorehouse89/A03-sp26-hjmorehouse89
 
 ```{python}
 
@@ -78,7 +81,7 @@ pio.templates["nike"] = go.layout.Template(
                       'size':16,
                       'color': '#333'},
         # Colorways
-        'colorway': ['#ec7424', '#a4abab'],
+        'colorway': ['#e56414', '#a15b5b'],
         # Keep adding others as needed below
         'hovermode': 'x unified'
     },
